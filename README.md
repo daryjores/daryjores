@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1>Hi, I'm Dary Jores! <br/><a href="https://github.com/daryjores">Computer Science Student</a>, <a href="https://www.linkedin.com/in/daryjores/">Cybersecurity Passionate</a> 
+
+
 
 <!--
-**daryjores/daryjores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
