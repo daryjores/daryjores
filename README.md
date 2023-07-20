@@ -1,4 +1,29 @@
-<h1>Hi, I'm Dary Jores! <br/><a href="https://github.com/daryjores">Computer Science Student</a>, <a href="https://www.linkedin.com/in/daryjores/">Cybersecurity Passionate</a> 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dary Jores
+==================================================================================================================================
+
+Cybersecurity Junior - Script Kiddie
+------------------------------------
+
+Cyberseccurity Junior with a passion for penetration testing, IT management and audit. Currently building my security Analyst skills through the use of various CTFs, certifications training and projects/Labs
+
+* 🌍  I'm based in China, Yantai
+* 🖥️  See my portfolio at [CYBERSECURITY PROJECTS & LABS](http://linkedin.com)
+* ✉️  You can contact me at [daryjores@gmail.com](mailto:daryjores@gmail.com)
+* 🚀  I'm currently working on [azure sentinel](http://linkedin.com)
+* 🧠  I'm learning SECURITY+
+* 🤝  I'm open to collaborating on interesting projects
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+</p>
 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
