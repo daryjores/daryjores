@@ -14,7 +14,7 @@ Cyberseccurity Junior with a passion for penetration testing, IT management and 
 
 </br>
 <h2>🧠 Knowladge :</h2>
-Security+ (30%)</br>
+Security+ (67%)</br>
 Practical Network Penetration Testing by TCM Security (Completed)</br>
 Vulnerability Management Detection & Reponse by Qualys (Completed & Certified)
 </br>
