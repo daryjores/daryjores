@@ -6,14 +6,29 @@ Cybersecurity Junior - Script Kiddie
 
 Cyberseccurity Junior with a passion for penetration testing, IT management and audit. Currently building my security Analyst skills through the use of various CTFs, certifications training and projects/Labs
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b><a href="https://github.com/daryjores/JWipe---Disk-Sanitization">Disk Sanitization</a></b>
 
-* 🌍  I'm based in China, Yantai
-* 🖥️  See my portfolio at [CYBERSECURITY PROJECTS & LABS](http://linkedin.com)
+<h2>👨‍💻 Cybersecurity Projects & Lab:</h2>
+- <b><a href="https://github.com/daryjores/JWipe---Disk-Sanitization">Disk Sanitization</a></b></br>
+- <b><a href="https://github.com/daryjores/AzureHoneynet-SOC#readme"> AzureHoneynet LAB</a></b>
+</br>
+
+</br>
+<h2>🧠 Training :</h2>
+Security+ (30%)</br>
+Practical Network Penetration Testing by TCM Security (Completed)</br>
+Vulnerability Management Detection & Reponse by Qualys (Completed & Certified)
+</br>
+
+
+
+</br>
+</br>
+
+
+
+
+* 🌍  based in China, Yantai
 * ✉️  You can contact me at [daryjores@gmail.com](mailto:daryjores@gmail.com)
-* 🚀  I'm currently working on [azure sentinel](http://linkedin.com)
-* 🧠  I'm learning SECURITY+
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
