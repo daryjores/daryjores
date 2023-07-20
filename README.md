@@ -6,6 +6,9 @@ Cybersecurity Junior - Script Kiddie
 
 Cyberseccurity Junior with a passion for penetration testing, IT management and audit. Currently building my security Analyst skills through the use of various CTFs, certifications training and projects/Labs
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+- <b><a href="https://github.com/daryjores/JWipe---Disk-Sanitization">Disk Sanitization</a></b>
+
 * 🌍  I'm based in China, Yantai
 * 🖥️  See my portfolio at [CYBERSECURITY PROJECTS & LABS](http://linkedin.com)
 * ✉️  You can contact me at [daryjores@gmail.com](mailto:daryjores@gmail.com)
@@ -26,8 +29,7 @@ Cyberseccurity Junior with a passion for penetration testing, IT management and 
 </p>
 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b><a href="https://github.com/daryjores/JWipe---Disk-Sanitization">Disk Sanitization</a></b>
+
 
 
 <!--
