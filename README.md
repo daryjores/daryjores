@@ -1,15 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dary Jores
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Mon nom est Dary Jores
 ==================================================================================================================================
 
 Cybersecurity Junior - Script Kiddie
 ------------------------------------
 
-Cyberseccurity Junior with a passion for penetration testing, IT management and audit. Currently building my security Analyst skills through the use of various CTFs, certifications training and projects/Labs
+Cybersécurité Junior avec une passion pour les tests de pénétration, la gestion informatique et l'audit. Je développe actuellement mes compétences d'analyste en sécurité en utilisant divers CTF, certifications, formations et projets/labos.
 
 <h2>👨‍💻 Cybersecurity Projects & Lab:</h2>
 - <b><a href="https://github.com/daryjores/JWipe---Disk-Sanitization">Disk Sanitization</a></b></br>
 - <b><a href="https://github.com/daryjores/AzureHoneynet-SOC#readme"> AzureHoneynet LAB</a></b></br>
-- <b><a href="https://github.com/daryjores/Active-Directory-Project"> Active Directory Home LAB Project</a></b>
+- <b><a href="https://github.com/daryjores/Active-Directory-Project"> Active Directory Home LAB Project</a></b></br>
+- <b><a href="https://github.com/daryjores/Vulnerabily-managment-lab"> Gesion de Vulnerabiles </a></b>
 </br>
 
 </br>
