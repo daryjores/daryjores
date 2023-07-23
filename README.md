@@ -10,7 +10,7 @@ Cybersécurité Junior avec une passion pour les tests de pénétration, la gest
 - <b><a href="https://github.com/daryjores/JWipe---Disk-Sanitization">Disk Sanitization</a></b></br>
 - <b><a href="https://github.com/daryjores/AzureHoneynet-SOC#readme"> AzureHoneynet LAB</a></b></br>
 - <b><a href="https://github.com/daryjores/Active-Directory-Project"> Active Directory Home LAB Project</a></b></br>
-- <b><a href="https://github.com/daryjores/Vulnerabily-managment-lab"> Gesion de Vulnerabiles </a></b>
+- <b><a href="https://github.com/daryjores/Vulnerabily-managment-lab"> Gestion de Vulnerabiles </a></b>
 </br>
 
 </br>
